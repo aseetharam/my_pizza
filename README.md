@@ -21,7 +21,7 @@ __Arun Seetharam's__ recipe for pizza dough
 
 Notes:
 
-* Do not substitute bread flour with all-purpose flour or any other bread brand of bread flour.  Bread flour has a higher protein content and is essential for a chewy crust.  I use [King Arthur Bread Flour](https://shop.kingarthurbaking.com/items/king-arthur-unbleached-bread-flour-5-lb) and get consistent results.
+* Do not substitute bread flour with all-purpose flour or any other brand of bread flour.  Bread flour has a higher protein content and is essential for a chewy crust.  I use [King Arthur Bread Flour](https://shop.kingarthurbaking.com/items/king-arthur-unbleached-bread-flour-5-lb) and get consistent results.
 * I use [Fleischmann's Active Dry Yeast](https://www.amazon.com/Fleischmanns-Active-Dry-Yeast-0-25/dp/B0049X2HAI) but any active dry yeast should work.
 * IMHO, salt, sugar, olive oil type/brand does not change results much.
 
@@ -32,7 +32,7 @@ Notes:
 
 1. Weigh 593g of flour, 12g salt, 1g yeast, 12g sugar, 12g olive oil into mixer bowl
 2. Weigh out 367g of water, if cold, warm up in microwave
-3. Add water to slowly to teh mixer bowl while running it in low speed
+3. Add water to slowly to the mixer bowl while running it in low speed
 4. Once all water is added, mix for 5 minutes
 
 Note that adding all water at once will result in a sticky dough that is hard to handle.  Adding water slowly will allow the flour to absorb the water and result in a dough that is easy to handle. Also, add yeast and salt separately to avoid killing the yeast (different parts of the dough is fine).
