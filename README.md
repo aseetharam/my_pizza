@@ -35,9 +35,9 @@ Notes:
 
 
 <p float="left">
-  <img src="assets/ingredients.jpg" width="100" />
-  <img src="assets/mixing.gif" width="100" /> 
-  <img src="assets/final.gif" width="100" />
+  <img src="assets/ingredients.jpg" width="250" />
+  <img src="assets/mixing.gif" width="250" /> 
+  <img src="assets/final.gif" width="250" />
 </p>
 
 
@@ -52,7 +52,7 @@ Note that adding all water at once will result in a sticky dough that is hard to
 The slow retard prevents yeast from uneven/rapid fermentation, making it more flavorful. I have tried 12 hours and 24 hours, and I prefer the 24-hour version.
 
 <p float="left">
-  <img src="assets/resting.jpg" width="100" />
+  <img src="assets/resting.jpg" width="250" />
 </p>
 
 ### Step 3:
