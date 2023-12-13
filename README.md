@@ -33,6 +33,15 @@ Notes:
 3. Add water slowly to the mixer bowl while running it at low speed.
 4. Once all the water is added, mix for 5 minutes.
 
+
+<p float="left">
+  <img src="assets/ingredients.jpg" width="100" />
+  <img src="assets/mixing.gif" width="100" /> 
+  <img src="assets/final.gif" width="100" />
+</p>
+
+
+
 Note that adding all water at once will result in a sticky dough that is hard to handle. Adding water slowly will allow the flour to absorb the water and result in a dough that is easy to handle. Also, add yeast and salt separately to avoid killing the yeast (different parts of the dough are fine).
 
 ### Step 2:
@@ -41,6 +50,10 @@ Note that adding all water at once will result in a sticky dough that is hard to
 2. After 10 minutes, put it in the fridge for 24 hours (or more).
 
 The slow retard prevents yeast from uneven/rapid fermentation, making it more flavorful. I have tried 12 hours and 24 hours, and I prefer the 24-hour version.
+
+<p float="left">
+  <img src="assets/resting.jpg" width="100" />
+</p>
 
 ### Step 3:
 
