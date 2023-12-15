@@ -63,6 +63,12 @@ The slow retard prevents yeast from uneven/rapid fermentation, making it more fl
 
 About 2-3 hours before baking, transfer the dough to a work surface, knead a few times by hand to start portioning into chunks. If you followed the above weights, you should end up with ~980-990g of dough, which can make 5 12" pizzas, each chunk ~196-200g. You can apply olive oil lightly on the surface of the tray so that it will be easier to lift off the dough ball.
 
+
+<p float="left">
+  <img src="https://github.com/aseetharam/my_pizza/assets/4835524/0f0de180-1ea2-4165-b56b-7066911c65e2" width="250" />
+  <img src="https://github.com/aseetharam/my_pizza/assets/4835524/3be19d88-7978-4135-ad75-0a9a982f201c" width="250" /> 
+</p>
+
 ### Step 4:
 
 1. Bake!
