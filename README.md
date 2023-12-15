@@ -20,8 +20,8 @@
 
 Notes:
 
-- Do not substitute bread flour with all-purpose flour or any other brand of bread flour. Bread flour has a higher protein content and is essential for a chewy crust. I use [King Arthur Bread Flour](https://shop.kingarthurbaking.com/items/king-arthur-unbleached-bread-flour-5-lb) and get consistent results.
-- I use [Fleischmann's Active Dry Yeast](https://www.amazon.com/Fleischmanns-Active-Dry-Yeast-0-25/dp/B0049X2HAI), but any active dry yeast should work.
+- Do not substitute bread flour with all-purpose flour or any other brand of bread flour. Bread flour has a higher protein content and is essential for a chewy crust. I use [King Arthur Bread Flour](https://shop.kingarthurbaking.com/items/bread-flour) and get consistent results.
+- I use [Fleischmann's Active Dry Yeast](https://www.fleischmannsyeast.com/product-page/#active-dry), but any active dry yeast should work.
 - IMHO, salt, sugar, olive oil type/brand do not change results much.
 
 ## Recipe
@@ -35,9 +35,10 @@ Notes:
 
 
 <p float="left">
-  <img src="assets/ingredients.jpg" width="250" />
-  <img src="assets/mixing.gif" width="250" /> 
-  <img src="assets/final.gif" width="250" />
+
+  <img src="https://github.com/aseetharam/my_pizza/assets/4835524/017efd73-cf00-4ba4-9815-3af5062c8f3f" width="250" />
+  <img src="https://github.com/aseetharam/my_pizza/assets/4835524/dee9c5e0-256e-4101-b9c0-c05b1d84ca9a" width="250" /> 
+  <img src="https://github.com/aseetharam/my_pizza/assets/4835524/59ef790b-61fd-49c4-8e49-1ade23239486" width="250" />
 </p>
 
 
@@ -52,7 +53,7 @@ Note that adding all water at once will result in a sticky dough that is hard to
 The slow retard prevents yeast from uneven/rapid fermentation, making it more flavorful. I have tried 12 hours and 24 hours, and I prefer the 24-hour version.
 
 <p float="left">
-  <img src="assets/resting.jpg" width="250" />
+  <img src="https://github.com/aseetharam/my_pizza/assets/4835524/07bc2576-361a-4203-8bf0-c8dfc59c03aa" width="250" />
 </p>
 
 ### Step 3:
