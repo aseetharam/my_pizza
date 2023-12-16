@@ -74,3 +74,9 @@ About 2-3 hours before baking, transfer the dough to a work surface, knead a few
 1. Bake!
 
 When ready, the dough is soft and very easy to shape. Start flattening the ball from edges and work towards the center. Use AP flour/bread flour to make it non-sticky or even corn flour. Put the sauce, toppings, cheese and use the peel to transfer to the oven. Watch and rotate the pizza every 30-45 seconds until it's done. Wait a few minutes once taken out and then slice and serve.
+
+
+<p float="left">
+  <img src="https://github.com/aseetharam/my_pizza/assets/4835524/9766f265-e3b5-4512-9da8-3f01682f130a" width="250" />
+  <img src="https://github.com/aseetharam/my_pizza/assets/4835524/40996e24-01bf-4522-af75-b16872fd34c8" width="250" /> 
+</p>
