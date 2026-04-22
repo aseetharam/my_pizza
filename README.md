@@ -4,7 +4,7 @@
 
 ## Instruments
 
-1. Strong mixer - I use the [KitchenAid Professional 600](https://www.kitchenaid.com/countertop-appliances/stand-mixers/bowl-lift-stand-mixers/p.professional-600-series-6-quart-bowl-lift-stand-mixer.kp26m1xwh.html)
+1. Strong mixer - I use the [KitchenAid Professional 600](https://www.kitchenaid.com/countertop-appliances/refurbished/stand-mixers/p.refurbished-professional-600-series-6-quart-bowl-lift-stand-mixer.RKP26M1XCU.html?queryID=87424f2bbd47c4f64a91203753fbfa7c)
 2. Pizza oven - I use the [Ooni Koda](https://ooni.com/products/ooni-koda)
 3. Weighing scale
 4. Accessories: cutting board, peel, pizza cutter, etc.
